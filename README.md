@@ -1,4 +1,4 @@
-# Skinning_Algorithm_Python
+# Skinning Algorithm using Python
 **ModelExport.py**
 \
 The code in modelExport.py must be run in Blender. The instructions for pasting the code to Blender are given in the modelExport.py file in the beginning. 
