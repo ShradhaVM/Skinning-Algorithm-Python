@@ -16,6 +16,7 @@ This file contains the main code. And with all the data provided in the input fo
 \
 This file is produced by the code in skinning.py. 
 
-****Restuls****
+**Results**
+\
 The result obtained is 3-D animation that follows the properties of proper rigid transformation. This
 means that the relative distance is between points is preserved and the resultant pose produces a realistic bend in 3-D space.
